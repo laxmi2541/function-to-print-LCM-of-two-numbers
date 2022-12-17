@@ -1,0 +1,1 @@
+# function-to-print-LCM-of-two-numbers
